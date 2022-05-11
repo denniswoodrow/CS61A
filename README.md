@@ -1,1 +1,1 @@
-# cs61a_fall2020
+# UC Berkeley CS61A Fall 2020
