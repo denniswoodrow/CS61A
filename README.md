@@ -7,4 +7,4 @@ I wanted to gain a solid understanding of computer science fundamentals, so I de
 This repository contains my solutions for labs, discussions, homework and projects I completed so far. If you would like to view the code I wrote, open files that contain the assignment name and end in .py or .sql. 
 For example, 'hw03.py' or 'lab12.sql'. 
 
-Note: Lab03 is not intentionally missing, the course itself jumped from Lab02 to Lab04.
+Notes: Lab03 is not intentionally missing, the course itself jumped from Lab02 to Lab04. Intentionally skipped lab10, lab11, disc10, disc11, hw06, hw07, hw08 because they deal with Scheme and building your own interpreter which is not something I'm interested in pursuing. 
